@@ -1,0 +1,14 @@
+H:\C#\Lab-4\Lab-4\bin\Debug\netcoreapp3.1\Lab-4.exe
+H:\C#\Lab-4\Lab-4\bin\Debug\netcoreapp3.1\Lab-4.deps.json
+H:\C#\Lab-4\Lab-4\bin\Debug\netcoreapp3.1\Lab-4.runtimeconfig.json
+H:\C#\Lab-4\Lab-4\bin\Debug\netcoreapp3.1\Lab-4.runtimeconfig.dev.json
+H:\C#\Lab-4\Lab-4\bin\Debug\netcoreapp3.1\Lab-4.dll
+H:\C#\Lab-4\Lab-4\bin\Debug\netcoreapp3.1\Lab-4.pdb
+H:\C#\Lab-4\Lab-4\obj\Debug\netcoreapp3.1\Lab-4.csproj.AssemblyReference.cache
+H:\C#\Lab-4\Lab-4\obj\Debug\netcoreapp3.1\Lab-4.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Lab-4\Lab-4\obj\Debug\netcoreapp3.1\Lab-4.AssemblyInfoInputs.cache
+H:\C#\Lab-4\Lab-4\obj\Debug\netcoreapp3.1\Lab-4.AssemblyInfo.cs
+H:\C#\Lab-4\Lab-4\obj\Debug\netcoreapp3.1\Lab-4.csproj.CoreCompileInputs.cache
+H:\C#\Lab-4\Lab-4\obj\Debug\netcoreapp3.1\Lab-4.dll
+H:\C#\Lab-4\Lab-4\obj\Debug\netcoreapp3.1\Lab-4.pdb
+H:\C#\Lab-4\Lab-4\obj\Debug\netcoreapp3.1\Lab-4.genruntimeconfig.cache
